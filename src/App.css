@@ -1,0 +1,12 @@
+/* add your styles here */
+img{
+    width: 45%;
+    padding: 2.5%;
+}
+h1{
+    margin: 0% 42%;
+}
+div{
+    display: flex;
+    flex-flow: row wrap;
+}
